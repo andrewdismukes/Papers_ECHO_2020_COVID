@@ -64,6 +64,21 @@ Rashelle Musci <rmusci1@jhu.edu>
 
 ### Lay Language Abstract 
 
+The present proposal seeks to examine the relationship between indicators of early life stressors and the development of COVID 19 stress, symptom severity, and potentially latent profiles of symptoms. If a relationship between early life stress and these outcomes exist, potential moderation by near termstress will be examined. 
+
 ### Background
 
+The impact of Early Life Adversity (ELA) on susceptibility for infectious disease has been well characterized for a number of prevalent infectious diseases, including HSV, the common cold, Epstein-Barr and cytomegalovirus, as well as common ailments including cardiovascular disease, diabetes, respiratory illness and arthritis. A common explanation for this association involves the interaction between the developing stress response system and immune system, such that these systems adapt and calibrate to stress exposure to provide near-term resiliency to stress, potentially with a trade-off of  predisposing to long term risk including decreased immune function and susceptibility to infectious disease. Therefore, it is likely that exposure to Early Life Adversity will manifest in meaningful differences in risk for Coronavirus. Knowing whether this is the case is critical for targeted intervention and disease containment as well as allocation of resources in response to COVID 19. 
+
 ### Specific Aims and Hypotheses 
+
+- Hypothesis 1 : History of Early Life Adversity will predispose to stress associated with COVID 19, and influence the severity of COVID 19 related stressors, moderated by near term stressors. 
+
+- Hypothesis 2: History of Early Life Adversity will predispose to occurence of, severity of, and differential profiles of symptoms associated with COVID 19, moderated by near term stressors.
+
+
+### Overlap with existing ECHO publications or proposals 
+ - There are no known overlaps with *approved* ECHO analysis proposals. 
+ - There is potential overlap/complementarity with the Ganiban led proposal "Residential resources and COVID-19 hardships within communities of color and lower income communities" and the Margolis led proposal "Chemical and Social Exposures Contribute To COVID-19-Related Acute Stress Symptoms in Children" however the WTL of this project is on the writing team for the Ganiban led proposal and Dr. Margolis has been suggested as a reviewer for the present proposal. The point of overlap is the development of a latent profile of near term stressors with the latter proposal. The present writing team would be interested in moving forward collaboratively with these other interesting and highly relevant proposals and working otgether too ensure that we answer unique questions but share resources and ideas where possible. 
+ 
+ ### Measurements
