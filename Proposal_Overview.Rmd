@@ -104,3 +104,18 @@ The impact of Early Life Adversity (ELA) on susceptibility for infectious diseas
 
  - COVID 19 questionnaire Parts A & B child report on self
  - COVID 19 questionnaire Parts A & B parent report on child
+
+### Confounders and modifiers 
+
+- BMI
+- SES
+- Education
+- Age
+- Sex
+- Race/Ethnicity
+
+### Moderators
+
+#### Near Term Stresors:  
+#### Parent:  
+#### Child: 
