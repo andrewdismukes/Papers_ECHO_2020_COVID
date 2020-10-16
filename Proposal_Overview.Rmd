@@ -3,10 +3,10 @@ title: "The Impact of Early Life Stress on Susceptibility and Severity of Sympto
 author: Andrew Dismukes
 date: "`r Sys.Date()`"
 output: 
-  html_document:
+ html_document:
    toc: true
    toc_float: true
-   toc_depth: 3
+   toc_depth: 2
 ---
 ## OVERVIEW {.tabset}
 ### WRITING TEAM LEADER CONTACT INFORMATION 
@@ -79,6 +79,28 @@ The impact of Early Life Adversity (ELA) on susceptibility for infectious diseas
 
 ### Overlap with existing ECHO publications or proposals 
  - There are no known overlaps with *approved* ECHO analysis proposals. 
- - There is potential overlap/complementarity with the Ganiban led proposal "Residential resources and COVID-19 hardships within communities of color and lower income communities" and the Margolis led proposal "Chemical and Social Exposures Contribute To COVID-19-Related Acute Stress Symptoms in Children" however the WTL of this project is on the writing team for the Ganiban led proposal and Dr. Margolis has been suggested as a reviewer for the present proposal. The point of overlap is the development of a latent profile of near term stressors with the latter proposal. The present writing team would be interested in moving forward collaboratively with these other interesting and highly relevant proposals and working otgether too ensure that we answer unique questions but share resources and ideas where possible. 
+ - There is potential overlap/complementarity with the Ganiban led proposal "Residential resources and COVID-19 hardships within communities of color and lower income communities" and the Margolis led proposal "Chemical and Social Exposures Contribute To COVID-19-Related Acute Stress Symptoms in Children" however the WTL of this project is on the writing team for the Ganiban led proposal and Dr. Margolis has been suggested as a reviewer for the present proposal. The point of overlap is the development of a latent profile of near term stressors with the latter proposal. The present writing team would be interested in moving forward collaboratively with these other interesting and highly relevant proposals and working otgether too ensure that we answer unique questions but share resources and ideas where possible.   
  
- ### Measurements
+ 
+## MEASUREMENTS {.tabset}
+### Exposures  
+#### Long Term Stressors  
+#### Parent:  
+  - ACES (Parent report on self)  
+  - Childhood Trauma Questionnaire 
+  - Life Stressor checklist - R  
+  
+#### Child:  
+  - ACES (Child report on self)  
+  - ACES (Parent report on Child)  
+  - Perceived Stress Scale
+  - Promis psychological stress (child self report and parent proxy)
+
+### Outcomes  
+#### Parent:    
+ - COVID 19 questionnaire Parts A & B parent report on self  
+ 
+#### Child:    
+
+ - COVID 19 questionnaire Parts A & B child report on self
+ - COVID 19 questionnaire Parts A & B parent report on child
