@@ -6,8 +6,10 @@ output:
   html_document:
    toc: true
    toc_float: true
+   toc_depth: 3
 ---
-## WRITING TEAM LEADER CONTACT INFORMATION 
+## OVERVIEW {.tabset}
+### WRITING TEAM LEADER CONTACT INFORMATION 
    - Writing Team Lead: Andrew Dismukes
    - Institution: Penn State
    - Address: 430 Moore Building, University Park, PA, 16801
@@ -18,12 +20,50 @@ output:
   
  <!---Link: https://andrewdismukes.github.io/Papers_ECHO_2020_COVID/Proposal_Overview.html)-->
   
-<!---## WRITING TEAM MEMBERS--->
+### WRITING TEAM MEMBERS 
 
-## DAC UTILIZATION 
+Initial List:
+
+Fichorova, Raina Nakova,M.D. <rfichorova@bwh.harvard.edu>,   
+rjschmidt@ucdavis.edu,   
+Racicoka@msu.edu,   
+breton@usc.edu,   
+bastain@usc.edu,   
+Frank D. Gilliland" <Gillilan@usc.edu>,   
+Zhanghuc@usc.edu,   
+jec373@drexel.edu   
+Jodi Ganiban <ganiban@gwu.edu>,   
+Jenae Neiderhiser <jenaemn@gmail.com>,   
+Leslie Leve <leve@uoregon.edu>,   
+Rashelle Musci <rmusci1@jhu.edu>  
+
+### DAC UTILIZATION 
 
 - Proposal WILL use DAC
 - Rashelle Musci is primary Analyst
 
-## TYPE OF PROPOSAL 
- 
+### CONFLICT OF INTEREST, FUNDING, IRB 
+
+- COI completed by WTL
+- IRB approval for proposal not applied for
+- This collaboration will not involve an institution or company that is not located in the United States
+- Will be submitted to peer reviewed journal
+
+
+## PROPOSAL {.tabset}
+### TYPE OF PROPOSAL
+ - Multiple Cohort awardees and DAC involved
+ - Neurodevelopment focus, but inclusive of parents 
+ - requires individual level data
+ - all data as described in this proposal (including primary exposures, outcomes, confounders, and modifiers) are listed in the protocol
+ - no biospecimens, proprietary measures, genetics, or assay data required
+### DATA
+
+
+## STUDY DESIGN {.tabset}
+
+### Lay Language Abstract 
+
+### Background
+
+### Specific Aims and Hypotheses 
