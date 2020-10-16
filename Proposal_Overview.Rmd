@@ -1,23 +1,24 @@
 ---
 title: "The Impact of Early Life Stress on Susceptibility and Severity of Symptoms of Coronavirus"
 author: Andrew Dismukes
-date: October 16, 2020
-output: revealjs::revealjs_presentation
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
 ---
 ## WRITING TEAM LEADER CONTACT INFORMATION 
-
    - Writing Team Lead: Andrew Dismukes
    - Institution: Penn State
    - Address: 430 Moore Building, University Park, PA, 16801
    - Telephone: NA at present (working from home)
    - Email: aud958@PSU.edu (preferred)
-
-## WRITING TEAM LEADER CONTACT INFORMATION Continued
   - WTL Is affiliated with ECHO, but not an ECHO PI
   - Will not include data from Navajo Birth Cohort
   
+ <!---Link: https://andrewdismukes.github.io/Papers_ECHO_2020_COVID/Proposal_Overview.html)-->
   
-## WRITING TEAM MEMBERS
+<!---## WRITING TEAM MEMBERS--->
 
 ## DAC UTILIZATION 
 
